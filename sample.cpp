@@ -2,6 +2,8 @@
 void main()
 {
   cout<<"Welcome to github";
+  cout<<"Addition::"<<add(1,2);
+  cout<<"Subtraction::"<<sub(4,5);
   
 }
 
